@@ -3,8 +3,11 @@
 Genanimate project example. Animate project is located app/assets/animate
 
 ```
-brunch watch -s
+# generate assets
 grunt genanimate
+
+# start development server
+brunch watch -s
 ```
 
 open localhost:3333
